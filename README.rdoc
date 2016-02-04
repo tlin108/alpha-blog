@@ -1,1 +1,3 @@
 This is the repo for my alpha-blog app for Complete Ruby on Rails Developer Course
+
+To view the app on Heroku: https://ancient-sierra-56933.herokuapp.com/
